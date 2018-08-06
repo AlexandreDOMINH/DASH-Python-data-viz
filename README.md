@@ -14,11 +14,11 @@ _Dash_ is a productive Python framework for building web applications. Written o
 
 ## Tutorials for DASH
 * Introduction for basic uses of DASH:
-  * [Part 1: App Layout]
-  * [Part 2: Interactivity]
-  * [Part 3: Interactive Graphing]
-  * [Part 4: Callbacks with States]
+  * [Part 1: App Layout](https://dash.plot.ly/getting-started)
+  * [Part 2: Interactivity](https://dash.plot.ly/getting-started-part-2)
+  * [Part 3: Interactive Graphing](https://dash.plot.ly/interactive-graphing)
+  * [Part 4: Callbacks with States](https://dash.plot.ly/state)
+  * [Part 5: Shared Variables](https://dash.plot.ly/sharing-data-between-callbacks)
 
-[Part 1: App Layout](https://dash.plot.ly/getting-started)
 ## Application
 
