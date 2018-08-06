@@ -1,9 +1,14 @@
 # DASH-Python-data-viz
 data visualization on DASH an extension Python library 
+
 *Table of Content*
-[Introduction DASH](#Introduction)
-[Elements in DASH](#Elements in DASH)
-[Interaction](#Interaction)
-[Shared Variables](#Shared Variables)
-[Style](#Style)
-[Application](#Application)
+
+1. [Introduction DASH](## Introduction)
+2. [Elements in DASH](# Elements in DASH)
+3. [Interaction](# Interaction)
+4. [Shared Variables](# Shared Variables)
+5. [Style](# Style)
+6. [Application](# Application)
+
+
+## Introduction
