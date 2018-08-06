@@ -22,5 +22,9 @@ _Dash_ is a productive Python framework for building web applications. Written o
 * Some good references:
   * [Visualize Earthquakes with DASH](https://www.giacomodebidda.com/visualize-earthquakes-with-plotly-dash/)
   * [Finding Bigfoot with DASH](/datascience/2017/08/09/finding-bigfoot-with-dash-part-1.html)
-  * [Using Plotly’s Dash to deliver public sector decision support dashboards](https://medium.com/a-r-g-o/using-plotlys-dash-to-deliver-public-sector-decision-support-dashboards-ac863fa829fb)
+  * [Using Plotly’s Dash to deliver public sector decision support dashboards](https://medium.com/a-r-g-o/using-plotlys-dash-to-deliver-public-sector-decision-support-dashboards-ac863fa829fb).
+* Community: 
+  * [Plotly](https://community.plot.ly/c/dash)
+  * [Scripts for Plotly community](https://github.com/plotly/dash-recipes)
+  
 ## Application
